@@ -9,7 +9,7 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 import seaborn as sns
 
-api_key_1 = "AIzaSyCu13IWqtNlZaQawS526-J7YLymJtj_QWM"
+api_key_1 = "#############"
 channel_id1 = "UCCezIgC97PvUuR4_gbFUs5g"  # corey
 channel_id2 = "UCxX9wt5FWQUAAz4UrysqK9A"  # CS Dojo
 channel_id3 = "UC42pOSNg804f1wCcj7qL0mA"  # coding with John
